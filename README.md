@@ -5,6 +5,7 @@ Titled: "Assessing Potato Nitrogen Status Under Nano-liquid Urea Using Spectral 
 
 Authors details:
 Alok Kumar Maurya1, Amey Pathak1,*, Kamlesh Narayan Tiwari1
+
 1Agricultural and Food Engineering Department, Indian Institute of Technology Kharagpur, West Bengal, India- 721302
 *Corresponding Author Email: (amey@agfe.iitkgp.ac.in)
 
