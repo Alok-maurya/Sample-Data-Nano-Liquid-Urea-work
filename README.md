@@ -1,10 +1,10 @@
-# Sample-Data-Nano-Liquid-Urea-work
-The data is a part of the research work, where we have tested the effectivness of the nano liquid urea on potato crop. 
+##  Sample-Data-Nano-Liquid-Urea-work
+# The data is a part of the research work, where we have tested the effectivness of the nano liquid urea on potato crop. 
 
-Here, we have provided a samples of data: Spectral_Sample24-25.xlsx (only contains samples of second experimental season 2024-25) and Biophysical_data.xlsx (all observed data for two experimental seasons) 
+""Here, we have provided a samples of data: Spectral_Sample24-25.xlsx (only contains samples of second experimental season 2024-25) and Biophysical_data.xlsx (all observed data for two experimental seasons)"" 
 
 
-A brief introduction about the work is described below:
+# A brief introduction about the work is described below:
 
 Titled: "Assessing Potato Nitrogen Status Under Nano-liquid Urea Using Spectral Response and Biophysical Traits"
 
